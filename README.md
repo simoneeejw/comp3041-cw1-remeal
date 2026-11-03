@@ -1,4 +1,3 @@
-```markdown
 # COMP3041 Professional Ethics — Coursework Part 1 Proposal
 
 **Target Application:** ReMeal (`app.remeal.user`)  
@@ -202,5 +201,3 @@ Vicentini, M.S., Freiria, C.N., Estigarribia, M.N., Cardoso, G.B., Vargas, F.M.,
 Woodcock, J. (2020) ‘The algorithmic panopticon at Deliveroo: Measurement, precarity, and the illusion of control’, *ephemera: theory & politics in organization*, 20(3), pp. 67–95.
 
 Zhao, Z. and Li, S. (2025) ‘The impacts of data privacy regulations on food-delivery platforms’, *Transportation Research Part C: Emerging Technologies*, 181, 105364. doi:10.1016/j.trc.2025.105364.
-
-```
