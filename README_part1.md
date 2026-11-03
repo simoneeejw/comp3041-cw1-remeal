@@ -30,11 +30,11 @@ Developers built the merchant listing flow and consumer interface without mandat
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="figure/fig-2.2.1.png" alt="Figure 2.2.1" height="420"><br>
+      <img src="figure/fig-2.2.1.jpg" alt="Figure 2.2.1" height="420"><br>
       <sub><b>Figure 2.2.1</b> — Store page showing no allergen or preparation-time information.</sub>
     </td>
     <td align="center" width="50%">
-      <img src="figure/fig-2.2.2.png" alt="Figure 2.2.2" height="420"><br>
+      <img src="figure/fig-2.2.2.jpg" alt="Figure 2.2.2" height="420"><br>
       <sub><b>Figure 2.2.2</b> — Terms &amp; Conditions Section 5.3 (Allergens): ReMeal "is not obligated to provide ingredient information or allergen information" and advises users to contact the Vendor before ordering.</sub>
     </td>
   </tr>
@@ -71,11 +71,11 @@ Privacy Policy Section 3C states ReMeal "may provide personal data" to "data ana
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="figure/fig-2.3.5.png" alt="Figure 2.3.5" height="420"><br>
+      <img src="figure/fig-2.3.5.jpg" alt="Figure 2.3.5" height="420"><br>
       <sub><b>Figure 2.3.5</b> — Google Play Data Safety page declaring "Data isn't encrypted".</sub>
     </td>
     <td align="center" width="50%">
-      <img src="figure/fig-2.3.6.png" alt="Figure 2.3.6" height="420"><br>
+      <img src="figure/fig-2.3.6.jpg" alt="Figure 2.3.6" height="420"><br>
       <sub><b>Figure 2.3.6</b> — Privacy Policy Section 3C: ReMeal "may provide personal data" to data analytics providers, advertising and marketing partners, and credit bureaus.</sub>
     </td>
   </tr>
@@ -87,11 +87,11 @@ Privacy Policy Section 3C states ReMeal "may provide personal data" to "data ana
 
 | Figure | File | Description |
 |---|---|---|
-| 2.2.1 | `figure/fig-2.2.1.png` | Store page with no allergen or preparation-time information |
-| 2.2.2 | `figure/fig-2.2.2.png` | Terms Section 5.3 (Allergens) |
+| 2.2.1 | `figure/fig-2.2.1.jpg` | Store page with no allergen or preparation-time information |
+| 2.2.2 | `figure/fig-2.2.2.jpg` | Terms Section 5.3 (Allergens) |
 | 2.3.1 | `figure/fig-2.3.1.png` | `usesCleartextTraffic="true"` |
 | 2.3.2 | `figure/fig-2.3.2.png` | Permission declarations (`AD_ID`, etc.) |
 | 2.3.3 | `figure/fig-2.3.3.png` | Firebase Analytics |
 | 2.3.4 | `figure/fig-2.3.4.png` | `SentryPerformanceProvider` |
-| 2.3.5 | `figure/fig-2.3.5.png` | Google Play Data Safety: "Data isn't encrypted" |
-| 2.3.6 | `figure/fig-2.3.6.png` | Privacy Policy Section 3C |
+| 2.3.5 | `figure/fig-2.3.5.jpg` | Google Play Data Safety: "Data isn't encrypted" |
+| 2.3.6 | `figure/fig-2.3.6.jpg` | Privacy Policy Section 3C |
