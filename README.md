@@ -84,9 +84,9 @@ Privacy Policy Section 3C states ReMeal *"may provide personal data"* to *"data 
 </table>
 
 ### 2.4 Issue 3: Inaccurate Documentation and Friction in Account Deletion
-Regarding the third issue, we observed that the registration barrier is low, supporting quick 1-click sign-ups via Google and Apple. However, ReMeal describes account deletion in three conflicting ways: Terms clause 2.2 states users must send a manual email, the Play Store states users can submit a web request, and the mobile app itself contains an in-app button. 
+Regarding the third issue, we observed a direct contradiction between ReMeal's documentation and client implementation. Terms Section 2.2 states that users must send a manual email to request account deletion, and the Play Store lists a web submission route. While the in-app Settings menu contains an account deletion button, its confirmation dialog ambiguously states only that 'You will no longer be able to login,' failing to disclose whether personal data and telemetry profiles are actually erased. 
 
-This in-app button's dialog only states *"You will no longer be able to login"* without clarifying whether underlying personal data is deleted. Furthermore, the Privacy Policy promises that users can limit targeted advertising within the app, but the interface only contains two general notification toggles enabled by default. This creates a "wide-in, hard-out" barrier that restricts user agency through dark patterns.
+Furthermore, while the Privacy Policy states users can opt out of targeted ads inside the app, only general push notification toggles exist (enabled by default). This creates conflicting administrative hurdles and deceptive documentation regarding user data erasure.
 
 ### 2.5 Issue 4: Prepayment Lock, Lack of Redress, and Asymmetric Liability
 Funds are locked immediately after checkout, and the system provides no after-sales or automated refund entry points. Terms clause 6.10 states that ReMeal takes responsibility for refunds only *"strictly if reasonable and justifiable"*, yet the app offers only a generic support chat without order-linked dispute features. 
