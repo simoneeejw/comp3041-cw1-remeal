@@ -4,8 +4,8 @@
 
 | Feature | Too Good To Go (TGTG) | Karma | ReMeal |
 |---|---|---|---|
-| **Allergen field required from vendor** | No. Bag contents are unknown to TGTG; some stores add allergen notes in free text (e.g. Morrisons, Starbucks listings) | **Yes.** Merchants must enter ingredients and allergens to create an item (Merchant Terms) | No. Information depends on vendor free text; Terms 5.3 says ReMeal "is not obligated to provide" allergen information |
-| **Allergen filter for users** | Not found in Terms | **Yes.** Users can filter by allergens, e.g. gluten- or lactose-free (User Terms §3) | No |
+| **Allergen field required from vendor** | No, Bag contents are unknown to TGTG; some stores add allergen notes in free text (e.g. Morrisons, Starbucks listings) | **Yes.** Merchants must enter ingredients and allergens to create an item (Merchant Terms) | No. Information depends on vendor free text; Terms 5.3 says ReMeal "is not obligated to provide" allergen information |
+| **Allergen filter for users** | Not found in Terms | **Yes,** Users can filter by allergens, e.g. gluten- or lactose-free (User Terms §3) | No |
 | **Who must give allergen info, and when** | Store must provide ingredients and allergens **at pickup, before the user confirms collection** (Terms §4.2) | Merchant, at listing creation | Not specified; user told to contact vendor before ordering (Terms 5.3) |
 | **Platform liability for food** | Disclaimed: no responsibility for contents, quality, ingredients or allergens (Terms §4.1) | Disclaimed: merchant responsible for quality, safety and food information (User Terms §6) | Disclaimed: broad liability exclusion (Terms 9.2) |
 | **When the user is charged** | Card **reserved** at booking, **charged at pickup** (Terms §5.4); a reservation "is not a purchase" (§3.3) | Charged at checkout; no cancellation after confirmation unless merchant allows (User Terms §4) | Charged at checkout |
@@ -19,8 +19,8 @@
 1. **Disclaiming allergen liability is industry-standard.** All three platforms place food-safety liability on vendors. ReMeal's Terms 5.3 is therefore not unusual. Our argument should focus on the **missing engineering safeguard**, not on the disclaimer alone.
 2. **Karma proves a mandatory allergen field is commercially workable.** It requires merchants to enter allergens before listing and lets users filter by them. This directly answers the counterpoint that mandatory fields would cause too much vendor friction.
 3. **TGTG solves the "unknown contents" problem through timing.** Payment is only reserved until pickup, the store must give allergen information before collection is confirmed, and the user can cancel in store. ReMeal charges upfront yet expects inspection before leaving (Terms 7.2.2), with no cancel option.
-4. **Karma's order-linked complaint flow** (categories + photos) is a working model for Issue 4. *Pass to Member 4.*
-5. **Karma's deletion clause** explicitly promises deletion or anonymisation. *Pass to Member 3.*
+4. **Karma's order-linked complaint flow** (categories + photos) is a working model for Issue 4. 
+5. **Karma's deletion clause** explicitly promises deletion or anonymisation.
 
 ## Caveats
 
