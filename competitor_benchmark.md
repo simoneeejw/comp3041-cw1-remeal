@@ -24,7 +24,7 @@
 
 ## Caveats
 
-- Karma User Terms on the English page are dated **14 November 2022**; check whether a newer version exists before citing.
+- Karma User Terms on the English page are dated **14 November 2022**.
 - TGTG terms reviewed are the UK English version, **effective 31 July 2024**.
 - Policies may differ by country; both competitors operate mainly in Europe.
 
