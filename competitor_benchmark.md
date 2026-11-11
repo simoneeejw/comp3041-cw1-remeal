@@ -1,6 +1,6 @@
 # Task 1.4: Competitor Benchmark
 
-## Comparison table:Too Good To Go vs Karma vs ReMeal
+## Comparison table: Too Good To Go vs Karma vs ReMeal
 
 | Feature | Too Good To Go (TGTG) | Karma | ReMeal |
 |---|---|---|---|
