@@ -1,6 +1,4 @@
-# Task 1.4 — Competitor Benchmark: Too Good To Go vs Karma vs ReMeal
-
-*Sources accessed 9 November 2026. ReMeal data from our own first-hand screenshots (Part 1).*
+# Task 1.4: Competitor Benchmark
 
 ## Comparison table
 
