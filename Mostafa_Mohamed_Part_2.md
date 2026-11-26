@@ -1,4 +1,3 @@
-<img width="540" height="1188" alt="WhatsApp Image 2026-11-24 at 10 38 28 AM" src="https://github.com/user-attachments/assets/6a83ce64-be90-480a-9743-6f6a62bde8f8" />
 1- Introduction
 
 ReMeal is a Malaysian mobile application developed by ReMeal Sdn. Bhd. and it's available on Android and iOS. It allows cafés, bakeries, restaurants and hotels to sell surplus food at a discount instead of throwing it away. Users pay inside the app then it can come by delivery or self pick up. Although ReMeal is best known for mystery bags but it's a small part of the platform: on the day of our check, the app listed 11 mystery bags compared with 53 desserts and 48 dine-in offers. Its users are mainly budget friendly customers, while its business partners are food vendors looking to recover part of the cost of unsold stock. ReMeal is significant because edible food waste in Malaysia rose from about 5,000 to about 6,000 tonnes per day between 2024 and 2025.
@@ -10,3 +9,4 @@ The bag arrived stapled shut, so it could not be inspected before the rider left
 <img width="540" height="1188" alt="WhatsApp Image 2026-11-24 at 10 38 27 AM (2)" src="https://github.com/user-attachments/assets/d329acef-af7b-4331-b1a4-3aef488e450c" />
 <img width="540" height="1188" alt="WhatsApp Image 2026-11-24 at 10 38 27 AM (1)" src="https://github.com/user-attachments/assets/f852312b-4fb0-49eb-8979-93028894a8a9" />
 <img width="540" height="1188" alt="WhatsApp Image 2026-11-24 at 10 38 27 AM" src="https://github.com/user-attachments/assets/5e99264a-99a3-488e-98ba-358892eee423" />
+<img width="540" height="1188" alt="WhatsApp Image 2026-11-24 at 10 38 28 AM" src="https://github.com/user-attachments/assets/6a83ce64-be90-480a-9743-6f6a62bde8f8" />
